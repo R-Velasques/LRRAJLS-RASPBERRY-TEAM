@@ -23,9 +23,11 @@ Sistemas Programables
 
 <p align="center">
 Profesor: MC. René Solis Reyes
-Semestre Agosto - Diciembre 2022 
 </p>
 
+<p align="center">
+Semestre Agosto - Diciembre 2022 
+</p>
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5626291.png" width="946" height="144" alt="LRRAAJLS-Raspberry-Team" /></a>
 <p align="center">
