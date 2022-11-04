@@ -1,5 +1,6 @@
-![](Imagen/portada.png)
-
+<p align="center">
+<a href="https://ibb.co/kSrrPcM"><img src="https://i.ibb.co/LZqqspv/portada.png" alt="portada" border="0"></a>
+</p>
 <p align="center">
 Tecnológico Nacional de México
 </p>
@@ -18,3 +19,15 @@ Sistemas Programables
 Profesor: MC. René Solis Reyes
 Semestre Agosto - Diciembre 2022 
 </p>
+
+# INTEGRANTES
+<ol type = "A">
+<li> 📝 Abraham Plaza Galaz </li>
+<li> 📝 Alicia Guadalupe </li>
+<li> 📝 Ricardo Velasques Salas </li>
+<li> 📝 Saul Alejandro Moreno </li>
+<li> 📝 Eddgar Muños </li>
+<li> 📝 Joel Sebastian Carrillo Macias </li>
+<li> 📝 Ricardo Jacuinde </li>
+<li> 📝 Luis Valenzuela </li>
+</ol>
