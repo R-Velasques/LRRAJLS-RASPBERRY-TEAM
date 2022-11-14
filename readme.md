@@ -36,7 +36,7 @@ Semestre Agosto - Diciembre 2022
 <h1> INTEGRANTES </h1>
 <ol type = "A">
 <li> 📝 Abraham Plaza Galaz </li>
-<li> 📝 Alicia Guadalupe </li>
+<li> 📝 Alicia Guadalupe Perez Lopez </li>
 <li> 📝 Ricardo Velasques Salas </li>
 <li> 📝 Saul Alejandro Moreno </li>
 <li> 📝 Eddgar Muños </li>
